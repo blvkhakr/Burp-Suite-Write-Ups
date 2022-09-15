@@ -1,20 +1,17 @@
 
 Go to Burp Suite and download the appropriate file for your operating system. I'm currently using Ubuntu 20.01. I'm also downloading the professional version so there is a step for downloading the license. 
 
+![Screenshot from 2022-09-15 22-20-52](https://user-images.githubusercontent.com/113462727/190415170-2e0c9723-c706-4a32-8844-e7454998a1cc.png)
 
 
 The download should be a file called burpsuite_pro_<os>_<version>.sh 
 
- 
-
-
+ ![image](https://user-images.githubusercontent.com/113462727/190415447-03cb5d7f-b66c-4271-81a5-7b0d9f2d9679.png)
  
 
 Open the terminal and cd into the directory where the file is and use the following command: 
 
- 
-
-chmod +x burpsuite_community_linux_v<your version here>.sh 
+ chmod +x burpsuite_community_linux_v<your version here>.sh 
 ./burpsuite_community_linux_v<your version here>.sh 
 
  
